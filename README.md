@@ -1,3 +1,2 @@
 # 5G-esempio
-
-Questo è un esempio
+Questo è un altro esempio
